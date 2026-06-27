@@ -1,0 +1,25 @@
+.claude
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Generated outputs
+vae_result.png
+vae_training.gif
+vae_frames/
+*.pt
+*.pth
+*.ckpt
