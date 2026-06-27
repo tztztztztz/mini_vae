@@ -8,11 +8,11 @@ The target data distribution is a simple mixture of three 1D Gaussians. The VAE 
 
 Training progress:
 
-![VAE training progress](./assets/vae_training.gif)
+![VAE training progress](./assets/training.gif)
 
 Final result:
 
-![VAE final result](./assets/vae_result.png)
+![VAE final result](./assets/final.png)
 
 ## Model
 
